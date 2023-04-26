@@ -1,6 +1,6 @@
 # Covid-19 Vaccination Tracker
 
-![Covid-19]([https://d2v9ipibika81v.cloudfront.net/uploads/sites/91/covid455-1140x500.jpg])
+![Covid-19](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cdc.gov%2Fmedia%2Fdpk%2Fdiseases-and-conditions%2Fcoronavirus%2Fcoronavirus-2020.html&psig=AOvVaw126AilNhdRS5nVSDOUz_VD&ust=1682630438224000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiT6Iq9yP4CFQAAAAAdAAAAABAJ)
 
 
 It is a Tableau dashboard to track COVID-19 vaccination globally. It answers 6 different KPIs. 
