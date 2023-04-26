@@ -1,5 +1,8 @@
 # Covid-19 Vaccination Tracker
 
+![Covid-19]([http://url/to/img.png](https://d2v9ipibika81v.cloudfront.net/uploads/sites/91/covid455-1140x500.jpg))
+
+
 It is a Tableau dashboard to track COVID-19 vaccination globally. It answers 6 different KPIs. 
 
 The data is all over the globe between the dates 09/22/2020 to 10/20/2021. 
